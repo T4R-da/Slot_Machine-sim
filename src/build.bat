@@ -1,1 +1,0 @@
-g++ main.cpp functions.hpp -o main.exe && .\main.exe
